@@ -3,8 +3,8 @@
 | :-- | :-- |
 | Mata kuliah | Pemrograman Berbasis Kerangka Kerja (PBKK) |
 | Pertemuan | 9 |
-| Nama | *Andie Azril Alfrianto* |
-| NRP | *5025241054* |
+| Nama | Andie Azril Alfrianto |
+| NRP | 5025241054 |
 
 
 Repositori ini berisi tugas praktikum mata kuliah Pemrograman Berbasis Kerangka Kerja. Semua aplikasi dibuat menggunakan
