@@ -1,4 +1,11 @@
 # Pemrograman Berbasis Kerangka Kerja (PBKK)
+| | |
+| :-- | :-- |
+| Mata kuliah | Pemrograman Berbasis Kerangka Kerja (PBKK) |
+| Pertemuan | 9 |
+| Nama | *Andie Azril Alfrianto* |
+| NRP | *5025241054* |
+
 
 Repositori ini berisi tugas praktikum mata kuliah Pemrograman Berbasis Kerangka Kerja. Semua aplikasi dibuat menggunakan
 CodeIgniter 3 dan dikerjakan secara bertahap, mulai dari latihan dasar sampai studi kasus aplikasi yang lebih lengkap.
